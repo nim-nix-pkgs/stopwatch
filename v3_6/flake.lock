@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-stopwatch-master": "src-stopwatch-master"
+        "src-stopwatch-v3_6": "src-stopwatch-v3_6"
       }
     },
-    "src-stopwatch-master": {
+    "src-stopwatch-v3_6": {
       "flake": false,
       "locked": {
         "lastModified": 1650216515,
@@ -51,7 +51,7 @@
       },
       "original": {
         "owner": "define-private-public",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v3.6",
         "repo": "stopwatch",
         "type": "gitlab"
       }
